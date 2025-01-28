@@ -5,8 +5,8 @@ public class Ellen {
         String name = "Ellen Teixeira";
         int age = 21;
         String department = "full-stack";
-        String[] languages = {"HTML5", "CSS3", "JavaScript", "Bootstrap4", "ReactJS", "Java", "SQL"};
-        System.out.println("atualmente estou estudando " + languages[5] + "e" + languague[6]);
+        String[] languages = {"HTML5", "CSS3", "JavaScript", "Bootstrap4", "ReactJS", "Java", "Python", "SQL"};
+        System.out.println("atualmente estou estudando " + languague[6]);
     }
 }
 ```
