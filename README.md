@@ -1,20 +1,19 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=93F791C5&center=true&width=435&lines=oi%2C+eu+sou+a+ellen+%3A);bem+vindo(a)+ao+meu+github.%E2%9C%A8" alt="Typing SVG" /></a>
-```java
-public class Ellen {
-    public static void main(String[] args) {
-        String name = "Ellen Teixeira";
-        int age = 21;
-        String department = "full-stack";
-        String[] languages = {"HTML5", "CSS3", "JavaScript", "Bootstrap4", "ReactJS", "Java", "C#", "Python", "SQL"};
-        System.out.println("atualmente estou estudando " + languague[6]);
-    }
-}
-```
+<div>
+    <h1 align="center"> oi, eu sou a ellen! :) </h1>
+    <h2 align="center"> data analyst; data science; database administrator; developer; </h2>
 
-## ➝ estudos 📚
-* superior em análise e desenvolvimento de sistemas
-* instituto proa
-* samsung innovation campus
+<h2> ➝ estudos: </h2>
+    <ul>
+        <li> superior em análise e desenvolvimento de sistemas </li>
+        <li> instituto proa </li>
+        <li> samsung innovation campus </li>
+        <li> google data analyst </li>
+        <li> dio campus expert </li>
+    </ul>
 
-## ➝ tecnologias 🖥
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 width=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=40 width=40 /> <img src="https://cdn-icons-png.flaticon.com/256/6132/6132221.png" height=40 width=40 /> <img src="https://cdn-icons-png.flaticon.com/256/5968/5968350.png" height=40 width=40 /> <img src="https://cdn-icons-png.flaticon.com/256/16425/16425634.png" height=40 width=40 />
+<h2> ➝ stacks: </h2>
+    <div align="center">  
+        <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ellensteixeira&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=0d1117" alt="Ellen github stats" /> 
+        <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellensteixeira&layout=compact&hide_border=true&title_color=f0ebd8&text_color=f0ebd8&bg_color=0d1117" />
+    </div>
+</div>
