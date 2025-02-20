@@ -11,7 +11,6 @@
             <li> instituto proa </li>
             <li> samsung innovation campus </li>
             <li> google data analyst </li>
-            <li> dio campus expert </li>
         </ul>
 </div>
 
