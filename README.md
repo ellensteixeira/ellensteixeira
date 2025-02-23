@@ -3,11 +3,13 @@
 
 <br>
 
-<img align="right" width="300px" src="https://i.pinimg.com/736x/21/1d/7c/211d7caf39a8bbaa0e4804f453bb87fd.jpg"/>
+<img align="right" width="200px" src="https://i.pinimg.com/736x/21/1d/7c/211d7caf39a8bbaa0e4804f453bb87fd.jpg"/>
 <div align="left">
     <h4> ➝ estudos: </h4>
         <ul>
             <li> superior em análise e desenvolvimento de sistemas </li>
+            <li> análise de dados | google </li>
+            <li> python e dados | data science academy </li>
         </ul>
 </div>
 
