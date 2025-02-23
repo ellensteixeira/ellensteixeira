@@ -8,9 +8,6 @@
     <h4> ➝ estudos: </h4>
         <ul>
             <li> superior em análise e desenvolvimento de sistemas </li>
-            <li> instituto proa </li>
-            <li> samsung innovation campus </li>
-            <li> google data analyst </li>
         </ul>
 </div>
 
